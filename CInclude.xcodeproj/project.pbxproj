@@ -40,6 +40,7 @@
 		DAA0BD2829C620C900E2BA95 = {
 			isa = PBXGroup;
 			children = (
+				DAA0BD4329C620DA00E2BA95 /* CInclude-Bridging-Header.h */,
 				DAA0BD3329C620C900E2BA95 /* CInclude */,
 				DAA0BD3229C620C900E2BA95 /* Products */,
 			);
@@ -58,7 +59,6 @@
 			children = (
 				DAA0BD4729C621ED00E2BA95 /* factorial.c */,
 				DAA0BD4829C621ED00E2BA95 /* factorial.h */,
-				DAA0BD4329C620DA00E2BA95 /* CInclude-Bridging-Header.h */,
 				DAA0BD3429C620C900E2BA95 /* CIncludeApp.swift */,
 				DAA0BD3629C620C900E2BA95 /* ContentView.swift */,
 				DAA0BD3829C620CA00E2BA95 /* Assets.xcassets */,
